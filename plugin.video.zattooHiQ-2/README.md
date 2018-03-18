@@ -1,4 +1,3 @@
-# plugin.video.zattooHiQ
-Play Live TV and recorded shows from Zattoo.
+# plugin.video.zattooHiQ-2
 
-Support: https://www.kodinerds.net/index.php/Thread/55690-Aus-ZattooBoxExtBeta-wird-ZattooHiQ/
+ZattooHiQ for 2. Account
