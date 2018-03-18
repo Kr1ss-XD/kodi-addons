@@ -1,3 +1,4 @@
-# plugin.video.zattooHiQ-2
+# plugin.video.zattooHiQ
 
 ZattooHiQ for 2. Account
+
